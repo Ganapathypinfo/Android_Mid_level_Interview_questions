@@ -1,5 +1,4 @@
-# Android_Mid_level_Interview_questions
-## Android Mid level Interview questions
+# Android Mid level Interview questions
 
 
 **Question: What is the difference between surface view and Textureview?**
